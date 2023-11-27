@@ -1,5 +1,5 @@
-### Python Week 1 - Code Challenge Overview
-# This code challenge encompasses the creation of solutions for three specific tasks, outlined below.
+# Python Week 1 - Code Challenge Overview
+## This code challenge encompasses the creation of solutions for three specific tasks, outlined below.
 
 ## Project Initialization
 
@@ -25,7 +25,7 @@ The two_positive_numbers(a, b, c) function takes three integers as arguments and
 
 
 
-##Challenge 3: Consonant value
+## Challenge 3: Consonant value
 This code solves the challenge of finding the highest value of consonant substrings in a given lowercase string. Consonants are defined as any letters excluding "aeiou," and their values are assigned (a = 1, b = 2, ..., z = 26).
 
 Function Overview
