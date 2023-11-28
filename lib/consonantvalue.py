@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def highest_value(characterString):
     # This dictionary assigns numeric values to each letter of the alphabet
     alphabetNumbers = {'a': 0, 'b': 2, 'c': 3, 'd': 4, 'e': 0,
@@ -26,8 +27,7 @@ def highest_value(characterString):
     print(f"The highest value of consonant substrings is: {maxConstant}")
     return maxConstant
 
-# Prompting the user to provide a lowercase string for processing
-input_string = input("Sure thing! Just type in a lowercase string: ")
+
 
 # Finding the highest value of consonant substrings in the provided string
-highest_value(input_string)
+highest_value("zazz")
